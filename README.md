@@ -1,2 +1,1 @@
-# python-books-for-ecosystem
-Advanced Python, Security, Data Systems, FinTech, and R - a structured collection of core engineering topics.
+A comprehensive, topic‑wise collection of essential resources for professional Python developers and data engineers. Covers Advanced Python (Effective, Fluent, TDD), Performance (High Performance Python, Ray), Security (Full Stack Python, Cryptography), Computer Science fundamentals (Grokking Algorithms, SICP, CLRS), Big Systems (DDIA, Streaming Systems), FinTech (Python for Finance, Bitcoin), Data Science (NLP, Recommendation Systems), plus R and probabilistic models (Statistical Rethinking, R for Data Science).
